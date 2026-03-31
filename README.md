@@ -1,4 +1,4 @@
-# 🌊 MMarine AR Module Builder
+# Marine AR Module Builder
 
 A visual web sandbox for creating **marine organism AR modules**.
 
@@ -8,15 +8,15 @@ Design AR-ready scenes by dragging, positioning, and scaling marine assets on a 
 
 ## ✨ Features
 
-- 🐠 Drag & drop marine organisms from a palette  
-- 🎯 Click to select, drag to move, and scale with visual handles  
-- ⚙️ Real-time property editing (name, position, scale)  
-- 📐 Optional grid snapping (40px)  
-- 🔳 Toggleable grid background  
-- 📦 JSON preview, copy, and download  
-- 📥 Import existing `marine-ar-module` JSON files  
-- ⚡ Live validation with performance hints  
-- 🎨 Clean UI with toast notifications  
+-  Drag & drop marine organisms from a palette  
+-  Click to select, drag to move, and scale with visual handles  
+-  Real-time property editing (name, position, scale)  
+-  Optional grid snapping (40px)  
+-  Toggleable grid background  
+-  JSON preview, copy, and download  
+-  Import existing `marine-ar-module` JSON files  
+-  Live validation with performance hints  
+-  Clean UI with toast notifications  
 
 ---
 
